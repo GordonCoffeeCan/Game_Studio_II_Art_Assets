@@ -1,0 +1,196 @@
+{"frames": {
+
+"PRChampion@JoggingLeft0001.png":
+{
+	"frame": {"x":0,"y":0,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0002.png":
+{
+	"frame": {"x":152,"y":0,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0003.png":
+{
+	"frame": {"x":304,"y":0,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0004.png":
+{
+	"frame": {"x":456,"y":0,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0005.png":
+{
+	"frame": {"x":608,"y":0,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0006.png":
+{
+	"frame": {"x":760,"y":0,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0007.png":
+{
+	"frame": {"x":0,"y":210,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0008.png":
+{
+	"frame": {"x":152,"y":210,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0009.png":
+{
+	"frame": {"x":304,"y":210,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0010.png":
+{
+	"frame": {"x":456,"y":210,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0011.png":
+{
+	"frame": {"x":608,"y":210,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0012.png":
+{
+	"frame": {"x":760,"y":210,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0013.png":
+{
+	"frame": {"x":0,"y":420,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0014.png":
+{
+	"frame": {"x":152,"y":420,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0015.png":
+{
+	"frame": {"x":304,"y":420,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0016.png":
+{
+	"frame": {"x":456,"y":420,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0017.png":
+{
+	"frame": {"x":608,"y":420,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0018.png":
+{
+	"frame": {"x":760,"y":420,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0019.png":
+{
+	"frame": {"x":0,"y":630,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0020.png":
+{
+	"frame": {"x":152,"y":630,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0021.png":
+{
+	"frame": {"x":304,"y":630,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0022.png":
+{
+	"frame": {"x":456,"y":630,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+},
+"PRChampion@JoggingLeft0023.png":
+{
+	"frame": {"x":0,"y":0,"w":152,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":210},
+	"sourceSize": {"w":152,"h":210}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "PRChampion@JoggingLeft.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:34c19619b59cb1ed0c5d37a527df6207:1/1$"
+}
+}
