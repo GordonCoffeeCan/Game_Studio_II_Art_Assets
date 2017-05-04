@@ -1,172 +1,172 @@
 {"frames": {
 
-"JapaneseChampion@All0215.png":
+"PersianChampion@All0229.png":
 {
-	"frame": {"x":0,"y":0,"w":154,"h":275},
+	"frame": {"x":0,"y":0,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0216.png":
+"PersianChampion@All0230.png":
 {
-	"frame": {"x":154,"y":0,"w":154,"h":275},
+	"frame": {"x":190,"y":0,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0217.png":
+"PersianChampion@All0231.png":
 {
-	"frame": {"x":308,"y":0,"w":154,"h":275},
+	"frame": {"x":380,"y":0,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0218.png":
+"PersianChampion@All0232.png":
 {
-	"frame": {"x":0,"y":275,"w":154,"h":275},
+	"frame": {"x":570,"y":0,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0219.png":
+"PersianChampion@All0233.png":
 {
-	"frame": {"x":154,"y":275,"w":154,"h":275},
+	"frame": {"x":760,"y":0,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0220.png":
+"PersianChampion@All0234.png":
 {
-	"frame": {"x":308,"y":275,"w":154,"h":275},
+	"frame": {"x":0,"y":273,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0221.png":
+"PersianChampion@All0235.png":
 {
-	"frame": {"x":0,"y":550,"w":154,"h":275},
+	"frame": {"x":190,"y":273,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0222.png":
+"PersianChampion@All0236.png":
 {
-	"frame": {"x":154,"y":550,"w":154,"h":275},
+	"frame": {"x":380,"y":273,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0223.png":
+"PersianChampion@All0237.png":
 {
-	"frame": {"x":308,"y":550,"w":154,"h":275},
+	"frame": {"x":570,"y":273,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0224.png":
+"PersianChampion@All0238.png":
 {
-	"frame": {"x":0,"y":825,"w":154,"h":275},
+	"frame": {"x":760,"y":273,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0225.png":
+"PersianChampion@All0239.png":
 {
-	"frame": {"x":154,"y":825,"w":154,"h":275},
+	"frame": {"x":0,"y":546,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0226.png":
+"PersianChampion@All0240.png":
 {
-	"frame": {"x":308,"y":825,"w":154,"h":275},
+	"frame": {"x":190,"y":546,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0227.png":
+"PersianChampion@All0241.png":
 {
-	"frame": {"x":0,"y":1100,"w":154,"h":275},
+	"frame": {"x":380,"y":546,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0228.png":
+"PersianChampion@All0242.png":
 {
-	"frame": {"x":154,"y":1100,"w":154,"h":275},
+	"frame": {"x":570,"y":546,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0229.png":
+"PersianChampion@All0243.png":
 {
-	"frame": {"x":308,"y":1100,"w":154,"h":275},
+	"frame": {"x":760,"y":546,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0230.png":
+"PersianChampion@All0244.png":
 {
-	"frame": {"x":0,"y":1375,"w":154,"h":275},
+	"frame": {"x":0,"y":819,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0231.png":
+"PersianChampion@All0245.png":
 {
-	"frame": {"x":154,"y":1375,"w":154,"h":275},
+	"frame": {"x":190,"y":819,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0232.png":
+"PersianChampion@All0246.png":
 {
-	"frame": {"x":308,"y":1375,"w":154,"h":275},
+	"frame": {"x":380,"y":819,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0233.png":
+"PersianChampion@All0247.png":
 {
-	"frame": {"x":0,"y":1650,"w":154,"h":275},
+	"frame": {"x":570,"y":819,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 },
-"JapaneseChampion@All0234.png":
+"PersianChampion@All0248.png":
 {
-	"frame": {"x":154,"y":1650,"w":154,"h":275},
+	"frame": {"x":760,"y":819,"w":190,"h":273},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
-	"sourceSize": {"w":154,"h":275}
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":273},
+	"sourceSize": {"w":190,"h":273}
 }},
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker ",
 	"version": "1.0",
-	"image": "JPChampion@LandingRight.png",
+	"image": "PRChampion@LandingRight.png",
 	"format": "RGBA8888",
-	"size": {"w":512,"h":2048},
+	"size": {"w":1024,"h":2048},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:210fbf843f93e5c01428d97d70eafe85:1/1$"
+	"smartupdate": "$TexturePacker:SmartUpdate:167112147f9d6ceadbdcb1a4d4394e9b:1/1$"
 }
 }
