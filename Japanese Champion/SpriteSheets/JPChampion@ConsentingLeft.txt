@@ -1,196 +1,172 @@
 {"frames": {
 
-"ConsentHalo00.jpg":
+"JapaneseChampion@All0215.png":
 {
-	"frame": {"x":0,"y":0,"w":256,"h":256},
+	"frame": {"x":0,"y":0,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo01.jpg":
+"JapaneseChampion@All0216.png":
 {
-	"frame": {"x":256,"y":0,"w":256,"h":256},
+	"frame": {"x":154,"y":0,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo02.jpg":
+"JapaneseChampion@All0217.png":
 {
-	"frame": {"x":512,"y":0,"w":256,"h":256},
+	"frame": {"x":308,"y":0,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo03.jpg":
+"JapaneseChampion@All0218.png":
 {
-	"frame": {"x":768,"y":0,"w":256,"h":256},
+	"frame": {"x":0,"y":275,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo04.jpg":
+"JapaneseChampion@All0219.png":
 {
-	"frame": {"x":0,"y":256,"w":256,"h":256},
+	"frame": {"x":154,"y":275,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo05.jpg":
+"JapaneseChampion@All0220.png":
 {
-	"frame": {"x":256,"y":256,"w":256,"h":256},
+	"frame": {"x":308,"y":275,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo06.jpg":
+"JapaneseChampion@All0221.png":
 {
-	"frame": {"x":512,"y":256,"w":256,"h":256},
+	"frame": {"x":0,"y":550,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo07.jpg":
+"JapaneseChampion@All0222.png":
 {
-	"frame": {"x":768,"y":256,"w":256,"h":256},
+	"frame": {"x":154,"y":550,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo08.jpg":
+"JapaneseChampion@All0223.png":
 {
-	"frame": {"x":0,"y":512,"w":256,"h":256},
+	"frame": {"x":308,"y":550,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo09.jpg":
+"JapaneseChampion@All0224.png":
 {
-	"frame": {"x":256,"y":512,"w":256,"h":256},
+	"frame": {"x":0,"y":825,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo10.jpg":
+"JapaneseChampion@All0225.png":
 {
-	"frame": {"x":512,"y":512,"w":256,"h":256},
+	"frame": {"x":154,"y":825,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo11.jpg":
+"JapaneseChampion@All0226.png":
 {
-	"frame": {"x":768,"y":512,"w":256,"h":256},
+	"frame": {"x":308,"y":825,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo12.jpg":
+"JapaneseChampion@All0227.png":
 {
-	"frame": {"x":0,"y":768,"w":256,"h":256},
+	"frame": {"x":0,"y":1100,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo13.jpg":
+"JapaneseChampion@All0228.png":
 {
-	"frame": {"x":256,"y":768,"w":256,"h":256},
+	"frame": {"x":154,"y":1100,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo14.jpg":
+"JapaneseChampion@All0229.png":
 {
-	"frame": {"x":512,"y":768,"w":256,"h":256},
+	"frame": {"x":308,"y":1100,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo15.jpg":
+"JapaneseChampion@All0230.png":
 {
-	"frame": {"x":768,"y":768,"w":256,"h":256},
+	"frame": {"x":0,"y":1375,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo16.jpg":
+"JapaneseChampion@All0231.png":
 {
-	"frame": {"x":0,"y":1024,"w":256,"h":256},
+	"frame": {"x":154,"y":1375,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo17.jpg":
+"JapaneseChampion@All0232.png":
 {
-	"frame": {"x":256,"y":1024,"w":256,"h":256},
+	"frame": {"x":308,"y":1375,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo18.jpg":
+"JapaneseChampion@All0233.png":
 {
-	"frame": {"x":512,"y":1024,"w":256,"h":256},
+	"frame": {"x":0,"y":1650,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 },
-"ConsentHalo19.jpg":
+"JapaneseChampion@All0234.png":
 {
-	"frame": {"x":768,"y":1024,"w":256,"h":256},
+	"frame": {"x":154,"y":1650,"w":154,"h":275},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
-},
-"ConsentHalo20.jpg":
-{
-	"frame": {"x":0,"y":1280,"w":256,"h":256},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
-},
-"ConsentHalo21.jpg":
-{
-	"frame": {"x":256,"y":1280,"w":256,"h":256},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
-},
-"ConsentHalo22.jpg":
-{
-	"frame": {"x":0,"y":0,"w":256,"h":256},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
-	"sourceSize": {"w":256,"h":256}
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":275},
+	"sourceSize": {"w":154,"h":275}
 }},
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker ",
 	"version": "1.0",
-	"image": "ConsentHalo@ScaleUp.png",
+	"image": "JPChampion@LandingRight.png",
 	"format": "RGBA8888",
-	"size": {"w":1024,"h":2048},
+	"size": {"w":512,"h":2048},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:6791cc346ca1b7774ca4b89bb758e4f5:1/1$"
+	"smartupdate": "$TexturePacker:SmartUpdate:210fbf843f93e5c01428d97d70eafe85:1/1$"
 }
 }
